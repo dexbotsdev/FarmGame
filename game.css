@@ -18,7 +18,7 @@
  }
 
  #ajaxbar {
-     background: url('media/graphics/loading/ajax-loader.gif') center no-repeat;
+     background: url('./media/graphics/loading/ajax-loader.gif') center no-repeat;
  }
 
  #canvas {
@@ -174,7 +174,7 @@
  #MobileAdInGamePreroll3-Box-Close {
      position: absolute;
      z-index: 10005;
-     background-image: url('media/graphics/generic-ad/light/close-button.png');
+     background-image: url('./media/graphics/generic-ad/light/close-button.png');
      background-repeat: no-repeat;
      width: 22px;
      height: 22px;
@@ -261,7 +261,7 @@
  #MobileAdInGameEnd3-Box-Close {
      position: absolute;
      z-index: 10005;
-     background-image: url('media/graphics/generic-ad/light/close-button.png');
+     background-image: url('./media/graphics/generic-ad/light/close-button.png');
      background-repeat: no-repeat;
      width: 22px;
      height: 22px;
