@@ -154,7 +154,7 @@ _SETTINGS = {
         },
         'Logo': {
             'Enabled': !0x1,
-            'Link': 'http://google.com',
+            'Link': '/index.html',
             'LinkEnabled': !0x1,
             'NewWindow': !0x1,
             'Width': 0xa6,
@@ -167,7 +167,7 @@ _SETTINGS = {
         },
         'Logo': {
             'Enabled': !0x1,
-            'Link': 'http://google.com',
+            'Link': '/index.html',
             'LinkEnabled': !0x1,
             'NewWindow': !0x1,
             'Width': 0xa6,
@@ -176,7 +176,7 @@ _SETTINGS = {
     },
     'MoreGames': {
         'Enabled': !0x1,
-        'Link': 'http://google.com',
+        'Link': '/index.html',
         'NewWindow': !0x1
     },
     'TapToStartAudioUnlock': {
@@ -3038,7 +3038,7 @@ _0x578e22['href'] = _0x3403e7['href'], _0x4f2fd6['extend']({
     'ajaxSettings': {
         'url': _0x3403e7['href'],
         'type': 'GET',
-        'isLocal': /^(?:about|app|app-storage|.+-extension|file|res|widget):$/ ['test'](_0x3403e7['protocol']),
+        'isLocal': '',
         'global': !0x1,
         'processData': !0x1,
         'async': !0x1,
