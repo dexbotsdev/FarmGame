@@ -130,7 +130,7 @@ var _STRINGS = {
                     }
                 },
                 'End': {
-                    'Enabled': !0x1,
+                    'Enabled': !0x0,
                     'Duration': 0x1,
                     'Width': 0x12c,
                     'Height': 0xfa,
@@ -175,8 +175,8 @@ var _STRINGS = {
             }
         },
         'MoreGames': {
-            'Enabled': !0x0,
-            'Link': 'http://www.marketjs.com/game/links/mobile',
+            'Enabled': !0x1,
+            'Link': 'http://google.com',
             'NewWindow': !0x0
         },
         'TapToStartAudioUnlock': {
@@ -185,8 +185,8 @@ var _STRINGS = {
         'Versioning': {
             'Version': '1.0.0',
             'Build': '43',
-            'DisplayLog': !0x0,
-            'DrawVersion': !0x0,
+            'DisplayLog': !0x1,
+            'DrawVersion': !0x1,
             'FontSize': '16px',
             'FontFamily': 'Arial',
             'FillStyle': '#000000'
