@@ -70,7 +70,7 @@ var _STRINGS = {
     },
     _SETTINGS = {
         'API': {
-            'Enabled': !0x1,
+            'Enabled': !0x0,
             'Log': {
                 'Events': {
                     'InitializeGame': !0x0,
@@ -156,7 +156,7 @@ var _STRINGS = {
                 'Enabled': !0x1,
                 'Link': 'http://google.com',
                 'LinkEnabled': !0x1,
-                'NewWindow': !0x1,
+                'NewWindow': !0x0,
                 'Width': 0xa6,
                 'Height': 0x3d
             }
@@ -169,7 +169,7 @@ var _STRINGS = {
                 'Enabled': !0x1,
                 'Link': 'http://google.com',
                 'LinkEnabled': !0x1,
-                'NewWindow': !0x1,
+                'NewWindow': !0x0,
                 'Width': 0xa6,
                 'Height': 0x3d
             }
@@ -177,7 +177,7 @@ var _STRINGS = {
         'MoreGames': {
             'Enabled': !0x1,
             'Link': 'http://google.com',
-            'NewWindow': !0x1
+            'NewWindow': !0x0
         },
         'TapToStartAudioUnlock': {
             'Enabled': !0x1
@@ -3039,9 +3039,9 @@ var MobileAdInGamePreroll = {
             'url': _0x3403e7['href'],
             'type': 'GET',
             'isLocal': /^(?:about|app|app-storage|.+-extension|file|res|widget):$/ ['test'](_0x3403e7['protocol']),
-            'global': !0x1,
-            'processData': !0x1,
-            'async': !0x1,
+            'global': !0x0,
+            'processData': !0x0,
+            'async': !0x0,
             'contentType': 'application/x-www-form-urlencoded;\x20charset=UTF-8',
             'accepts': {
                 '*': _0x2b7abb,
@@ -3067,8 +3067,8 @@ var MobileAdInGamePreroll = {
                 'text\x20xml': _0x4f2fd6['parseXML']
             },
             'flatOptions': {
-                'url': !0x1,
-                'context': !0x1
+                'url': !0x0,
+                'context': !0x0
             }
         },
         'ajaxSetup': function(_0x157b33, _0x1b3e61) {
