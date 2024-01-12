@@ -163,10 +163,10 @@ var _STRINGS = {
         },
         'Branding': {
             'Splash': {
-                'Enabled': !0x0
+                'Enabled': !0x1
             },
             'Logo': {
-                'Enabled': !0x0,
+                'Enabled': !0x1,
                 'Link': 'http://google.com',
                 'LinkEnabled': !0x1,
                 'NewWindow': !0x0,
@@ -175,7 +175,7 @@ var _STRINGS = {
             }
         },
         'MoreGames': {
-            'Enabled': !0x1,
+            'Enabled': !0x0,
             'Link': 'http://www.marketjs.com/game/links/mobile',
             'NewWindow': !0x0
         },
